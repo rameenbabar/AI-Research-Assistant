@@ -124,7 +124,7 @@ Works on local CPU; use GPU or server CPUs for lower latency.
 
 Qdrant can be self-hosted via Docker or Qdrant Cloud.
 
-Swap Ollama model `(gemma3, mistral)` to trade accuracy vs. speed.
+Swap Ollama model `(mistral, deepseek-r1 etc)` to trade accuracy vs. speed.
 
 **For scaling:** deploy ingestion on a Spark/Flink job, shard Qdrant, and front the pipelines with FastAPI.
 
