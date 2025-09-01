@@ -130,3 +130,10 @@ Swap Ollama model `(mistral, deepseek-r1 etc)` to trade accuracy vs. speed.
 
 ---
 
+## Collaborators
+
+Aliza Saadi - https://github.com/AlizaSaadi 
+
+Mehrunisa Nasir - https://github.com/mehru4321 
+
+---
